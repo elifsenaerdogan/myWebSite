@@ -1,0 +1,40 @@
+{
+  "about": "About",
+  "experience": "Experience",
+  "contact": "Contact",
+  "cv_button": "Click here to view my resume 📄",
+  "about_content": "I'm Elif Sena Erdoğan. I studied Computer Engineering at Necmettin Erbakan University. During my university years, I became interested in web development through internships I completed. I started my software career by developing backends with Java Spring Boot, then shifted to the frontend side with React, gaining full-stack development experience.\n\nAfter graduation, I started working as a Front-end Developer at 2C Bilgi Teknolojileri. In my first project, I worked as a full-stack developer to build a warehouse stock management system. I actively took part in corporate projects using React and Next.js, and assumed responsibilities not only in coding but also in analysis and design processes.\n\nI care about code quality, maintainability, and user experience. Writing clean, simple, and readable code, and developing responsive interfaces are among my priorities. I pay attention to both technical and design details to create user-friendly, accessible, and high-performance applications.\n\nI actively use Git and GitHub, developing my projects under version control. I also work with an open-source mindset, supporting team collaboration.\n\nI'm familiar with UI component libraries (MUI, Ant Design, Tailwind CSS) and design tools (Figma). I value strong communication within the team and working harmoniously with UI/UX designers and backend developers. I'm a detail-oriented, solution-focused developer who is always open to learning.",
+  "job": "Computer Engineer",
+  "experiences": [
+    {
+      "year": "JANUARY 2025 - MARCH 2025",
+      "title": "Front-End Developer · CARNA DIGITAL",
+      "description": "Built web applications using React and Next.js.",
+      "tech": ["React", "Next.js", "JavaScript", "SCSS"]
+    },
+    {
+      "year": "JUNE 2023 — JANUARY 2025",
+      "title": "Front-End Developer · 2C Information Technologies",
+      "description": "Worked on corporate projects using React and Next.js. Participated in full-stack projects such as a warehouse stock management system.",
+      "tech": ["React", "Next.js", "JavaScript","TypeScript","SCSS","SpringBoot","Nodejs","PostgreSQL"]
+    },
+    {
+      "year": "AUGUST 2022 — SEPTEMBER 2022",
+      "title": "Intern Developer · Ankara Chamber of Commerce",
+      "description": "Developed full-stack projects with Java Spring Boot and React.",
+      "tech": ["React","Java", "CSS","SpringBoot","Nodejs","PostgreSQL"]
+    },
+    {
+      "year": "AUGUST 2020 — OCTOBER 2020",
+      "title": "Intern Developer · TSE",
+      "description": "Developed backend projects using Java Spring Boot.",
+      "tech": ["Java","SpringBoot","Nodejs","PostgreSQL"]
+    }
+  ],
+  "contact_name": "Your name",
+  "contact_email": "Your email address",
+  "contact_message": "Your message",
+  "contact_submit": "Send",
+  "contact_thank_you": "Thank you! Your message has been sent ✅",
+  "contact_error": "An error occurred, please try again."
+}

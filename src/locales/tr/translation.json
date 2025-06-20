@@ -1,0 +1,40 @@
+{
+  "about": "Hakkında",
+  "experience": "Deneyim",
+  "contact": "İletişim",
+  "cv_button": "CV'me göz atmak isterseniz buraya tıklayabilirsiniz 📄",
+  "about_content": "Ben Elif Sena Erdoğan. Necmettin Erbakan Üniversitesi'nde Bilgisayar Mühendisliği okudum. Üniversite yıllarımda yaptığım stajlar sayesinde web programlamaya ilgi duymaya başladım. Yazılım kariyerime Java Spring Boot ile backend geliştirerek başladım, ardından React ile frontend tarafına yönelerek full-stack geliştirme deneyimi kazandım.\n\nMezuniyetimin ardından 2C Bilgi Teknolojileri’nde Front-end Developer olarak çalışmaya başladım. İlk projemde full-stack olarak yer alarak bir depo stok yönetim sistemi geliştirdim. React ve Next.js ile kurumsal projelerde aktif görev aldım; sadece kodlama değil, analiz ve tasarım süreçlerinde de sorumluluk üstlendim.\n\nKod kalitesine, sürdürülebilirliğe ve kullanıcı deneyimine önem veriyorum. Temiz, sade ve okunabilir kod yazmayı, mobil uyumlu (responsive) arayüzler geliştirmeyi önceliklerim arasında görüyorum. Kullanıcı dostu, erişilebilir ve performanslı uygulamalar geliştirmek için hem tasarımsal hem teknik detaylara dikkat ederim.\n\nGit ve GitHub’ı etkin biçimde kullanıyor, projelerimi versiyon kontrolü altında geliştiriyorum. Aynı zamanda takım içi iş birliğini destekleyen, açık kaynak kültürüne değer veren bir yaklaşımla çalışıyorum.\n\n Arayüz bileşen kütüphaneleri (MUI, Ant Design, Tailwind CSS) ve tasarım araçları (Figma) ile çalışmaya aşinayım. Takım içi iletişimi güçlü tutarak UI/UX tasarımcıları ve backend geliştiricilerle uyumlu çalışmayı önemsiyorum. Sürekli öğrenmeye açık, detaylara dikkat eden ve çözüm odaklı bir geliştiriciyim.",
+  "job": "Bilgisayar Mühendisi",
+  "experiences": [
+    {
+      "year": "2025 OCAK - 2025 MART",
+      "title": "Front-End Developer · CARNA DIGITAL",
+      "description": "React ve Next.js ile web programları oluşturdum.",
+      "tech": ["React", "Next.js", "JavaScript", "SCSS"]
+    },
+    {
+      "year": "2023 HAZİRAN — 2025 OCAK",
+      "title": "Front-End Developer · 2C Bilgi Teknolojileri",
+      "description": "React ve Next.js ile kurumsal projelerde görev aldım. Depo stok yönetim sistemi gibi full-stack projelerde yer aldım.",
+      "tech": ["React", "Next.js", "JavaScript","TypeScript","SCSS","SpringBoot","Nodejs","PostgreSQL"]
+    },
+    {
+      "year": "2022 AĞUSTOS — 2022 EYLÜL",
+      "title": "Stajyer Developer · Ankara Ticaret Odası",
+      "description": "Java Spring Boot ile backend ve React ile frontend yazarak full stack projeler geliştirdim.",
+      "tech": ["React","Java", "CSS","SpringBoot","Nodejs","PostgreSQL"]
+    },
+    {
+      "year": "2020 AĞUSTOS — 2020 EKİM",
+      "title": "Stajyer Developer · TSE",
+      "description": "Java Spring Boot ile projeler geliştirdim.",
+      "tech": ["Java","SpringBoot","Nodejs","PostgreSQL"]
+    }
+  ],
+  "contact_name": "Adınız",
+  "contact_email": "E-posta adresiniz",
+  "contact_message": "Mesajınız",
+  "contact_submit": "Gönder",
+  "contact_thank_you": "Teşekkürler! Mesajınız gönderildi ✅",
+  "contact_error": "Bir hata oluştu, lütfen tekrar deneyin."
+}
